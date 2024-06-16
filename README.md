@@ -1,3 +1,4 @@
+![logo](https://github.com/Devluck02/Devluck02/blob/master/githubCover.jpeg)
 <h1>Hi there, I'm Lucky Singh 👋</h1>
 <h2>🌐 Front-End Developer | 5 Years of Experience</h2>
 <p>Welcome to my GitHub profile! I specialize in creating interactive and responsive web applications using modern technologies.</p>
